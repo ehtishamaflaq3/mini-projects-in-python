@@ -27,7 +27,7 @@ Generates a QR code that links to this GitHub repository.
 A simple Python-based fake news generator that creates hilarious and random headlines using funny subjects, actions, and scenarios. You can view headlines in the terminal or save multiple headlines to a text file.
 
 **Features**
--Randomly generated funny headlines
--Option to display headlines interactively
--Save multiple headlines to HEADLINES FILE.txt
--Pure Python, no external libraries needed
+- Randomly generated funny headlines
+- Option to display headlines interactively
+- Save multiple headlines to HEADLINES FILE.txt
+- Pure Python, no external libraries needed
